@@ -1,7 +1,9 @@
 {
-    "name": "wdframe",
+    "name": "wdframelocal/wdframelocal",
     "description": "wdframe framework wdhouse",
     "version": "5.0.1",
+    "type": "library",
+    "license": "proprietary",
     "authors": [
             {
                 "name": "Anderson Vaz",
