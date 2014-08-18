@@ -15,5 +15,13 @@
     ],
     "support": {
             "email": "suporte@wdhouse.com.br"
-        }
+        },
+    "repositories": [
+    {
+        "type": "composer",
+        "url": "https://github.com/andersonvaz/wdframelocal-composer/raw/master/packages.json"
+    }],
+		"require": {
+		    "wdframe": "5.0.1"
+		}
 }
