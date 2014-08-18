@@ -8,7 +8,8 @@
                     "url": "/servidor/http/wdframe5/public_html/wdframe5.0.2/",
                     "type": "git",
                     "reference": "master"
-                }
+                },
+                "target-dir": "wdframe5.0.2"
             },
             "5.0.1": {
                 "name": "wdframe",
@@ -17,7 +18,8 @@
                     "url": "/servidor/http/wdframe5/public_html/wdframe5.0.1/",
                     "type": "git",
                     "reference": "master"
-                }
+                },
+                "target-dir": "wdframe5.0.1"
             },
             "4.3.1": {
                 "name": "wdframe",
@@ -26,7 +28,8 @@
                     "url": "/servidor/http/wdframe5/public_html/wdframe4.3.1/",
                     "type": "git",
                     "reference": "master"
-                }
+                },
+                "target-dir": "wdframe4.3.1"
             }
         }
     }
