@@ -1,0 +1,16 @@
+{
+    "name": "wdframe",
+    "description": "wdframe framework wdhouse",
+    "version": "5.0.1",
+    "authors": [
+            {
+                "name": "Anderson Vaz",
+                "email": "anderson@wdhouse.com.br",
+                "homepage": "http://www.wdhouse.com.br",
+                "role": "Developer"
+            }
+    ],
+    "support": {
+            "email": "suporte@wdhouse.com.br"
+        }
+}
