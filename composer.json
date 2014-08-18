@@ -1,7 +1,7 @@
 {
     "name": "wdframelocal/wdframelocal",
     "description": "wdframe framework wdhouse",
-    "version": "5.0.1",
+    "version": "5.0.2",
     "type": "library",
     "license": "proprietary",
     "minimum-stability": "dev",
@@ -22,6 +22,6 @@
         "url": "https://github.com/andersonvaz/wdframelocal-composer/raw/master/packages.json"
     }],
 		"require": {
-		    "wdframe": "5.0.1"
+		    "wdframe": "5.0.2"
 		}
 }
