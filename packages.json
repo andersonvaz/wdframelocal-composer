@@ -1,11 +1,11 @@
 {
     "packages": {
         "wdframe": {
-            "dev-master": {
+            "5.0.2": {
                 "name": "wdframe",
-                "version": "5.0.1",
+                "version": "5.0.2",
                 "source": {
-                    "url": "/servidor/http/wdframe5/public_html/wdframe5.0.1/",
+                    "url": "/servidor/http/wdframe5/public_html/wdframe5.0.2/",
                     "type": "git",
                     "reference": "master"
                 }
