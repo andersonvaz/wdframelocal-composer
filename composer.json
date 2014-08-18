@@ -22,6 +22,6 @@
         "url": "https://github.com/andersonvaz/wdframelocal-composer/raw/master/packages.json"
     }],
 		"require": {
-		    "wdframe": "5.0.2"
+		    "wdframe": "5.0.*"
 		}
 }
