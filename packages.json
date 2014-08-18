@@ -1,6 +1,6 @@
 {
     "packages": {
-        "wdframelocal": {
+        "wdframe": {
             "dev-master": {
                 "name": "wdframe5.0.1",
                 "version": "5.0.1",
