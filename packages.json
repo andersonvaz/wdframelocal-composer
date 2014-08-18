@@ -2,7 +2,7 @@
     "packages": {
         "wdframe": {
             "dev-master": {
-                "name": "wdframe5.0.1",
+                "name": "wdframe",
                 "version": "5.0.1",
                 "source": {
                     "url": "/servidor/http/wdframe5/public_html/wdframe5.0.1/",
@@ -11,7 +11,7 @@
                 }
             },
             "5.0.1": {
-                "name": "wdframe5.0.1",
+                "name": "wdframe",
                 "version": "5.0.1",
                 "source": {
                     "url": "/servidor/http/wdframe5/public_html/wdframe5.0.1/",
@@ -20,7 +20,7 @@
                 }
             },
             "4.3.1": {
-                "name": "wdframe4.3.1",
+                "name": "wdframe",
                 "version": "4.3.1",
                 "source": {
                     "url": "/servidor/http/wdframe5/public_html/wdframe4.3.1/",
